@@ -1,0 +1,6 @@
+{
+    "name"        : "MiscChanger",
+    "library"     : "engine",
+    "type"        : "string",
+    "memoryType"  : "data"
+}

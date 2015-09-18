@@ -1,0 +1,6 @@
+{
+    "name"        : "NameChanger",
+    "library"     : "mod",
+    "type"        : "string",
+    "memoryType"  : "data"
+}

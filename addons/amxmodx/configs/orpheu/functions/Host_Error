@@ -1,0 +1,21 @@
+{
+	"name" : "Host_Error",
+	"library" : "engine",
+	"arguments" :
+	[
+		{
+			"type" : "char *"
+		}
+	],
+	"identifiers" :
+	[
+		{
+			"os" : "windows",
+			"value" : [0x55,0x8B,0xEC,0x81,0xEC,0x00,0x04,0x00,0x00,0xA1,"*","*","*","*",0x85,0xC0,0x74,0x0D,0x68,"*","*","*","*",0xE8,"*","*","*","*",0x83,0xC4,0x04,0xC7]
+		},
+		{
+			"os" : "linux",
+			"value" : "Host_Error"
+		}
+	]
+}
